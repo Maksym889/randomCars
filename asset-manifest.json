@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/randomCars/static/css/main.b3fa66e7.css",
+    "main.js": "/randomCars/static/js/main.5b8288ae.js",
+    "index.html": "/randomCars/index.html",
+    "main.b3fa66e7.css.map": "/randomCars/static/css/main.b3fa66e7.css.map",
+    "main.5b8288ae.js.map": "/randomCars/static/js/main.5b8288ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3fa66e7.css",
+    "static/js/main.5b8288ae.js"
+  ]
+}
